@@ -112,8 +112,8 @@ chest-xray-pneumonia-classifier/
 5. **Transparency**: Grad-CAM heatmaps generated for every prediction.
 
 ## 👤 Author
-**Sojib Chandra Roy**  
-📧 Email: rcsojib.cse1@gmail.com
+**A. K. M. Thohidul Alam Khan**  
+📧 Email: thohidul.ce@gmail.com
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
